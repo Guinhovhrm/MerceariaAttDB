@@ -1,3 +1,5 @@
+#create database attmercearia;
+#use attmercearia;
 
 CREATE TABLE tbvenda (
     id INT UNIQUE,
