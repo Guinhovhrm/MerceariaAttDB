@@ -132,7 +132,4 @@ insert into tbCliente values
 (11, "Alison"), (12, "Irene"), (13, "Faith"), (14, "Jennifer"), (15, "Evan") ;
 
 
-SELECT
-    idCliente
-FROM
-    tbVenda;
+SELECT * FROM tbVenda;
